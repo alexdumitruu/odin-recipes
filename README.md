@@ -1,1 +1,2 @@
-# odin-recipes
+# odin-recipes: my first project in the Odin curriculum
+This is the first website that I made. It uses basic HTML, without any CSS or JS. It consists of an index page which will have links to a few recipes.
