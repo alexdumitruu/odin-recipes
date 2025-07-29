@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(243, 223, 196);
+}
+
+.main-container {
+    background-color: rgb(236, 200, 152);
+    display: inline-block;
+    position: relative;
+
+}
